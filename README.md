@@ -10,4 +10,4 @@ With labs across China, Singapore, and the U.S., our team has already released i
 ## 网站链接
 [官网链接](https://seed.bytedance.com/)
 ## 联系方式
-- 邮箱: doubao-llm@bytedance.com
+邮箱: doubao-llm@bytedance.com
