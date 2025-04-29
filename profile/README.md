@@ -1,4 +1,3 @@
-# Bytedance-Seed
 ## Introduction
 
 Established in 2023, the ByteDance Seed team is dedicated to discovering new approaches to general intelligence and pushing the boundaries of AI. Our research spans large language models, speech, vision, world models, AI infrastructure, next-generation interfaces and more. 
